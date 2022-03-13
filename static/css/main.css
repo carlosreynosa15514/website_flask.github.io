@@ -6,4 +6,5 @@ body{
 
 .jumbotron {
     background-color: bisque;
+    padding: 1rem;
 }
